@@ -1,8 +1,8 @@
 # simple-wc
 >A barebones implementation of the wc command, written to practice C.
 
-[![LastCommit](https://img.shields.io/github/last-commit/RayNieport/simple-wc?style=flat-square)](https://github.com/RayNieport/simple-wc/commits/main)
-[![License](https://img.shields.io/github/license/RayNieport/simple-wc?style=flat-square)](https://github.com/RayNieport/simple-wc/blob/main/LICENSE)
+[![RepoSize](https://img.shields.io/github/repo-size/RayNieport/simple-wc)]
+[![License](https://img.shields.io/github/license/RayNieport/simple-wc)](https://github.com/RayNieport/simple-wc/blob/main/LICENSE)
 
 ## Usage: 
 ```
