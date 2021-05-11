@@ -1,7 +1,7 @@
 # simple-wc
 >A barebones implementation of the wc command, written to practice C.
 
-[RepoSize](https://img.shields.io/github/repo-size/RayNieport/simple-wc)
+![RepoSize](https://img.shields.io/github/repo-size/RayNieport/simple-wc)
 [![License](https://img.shields.io/github/license/RayNieport/simple-wc)](https://github.com/RayNieport/simple-wc/blob/main/LICENSE)
 
 ## Usage: 
