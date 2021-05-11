@@ -21,7 +21,7 @@ Three options are implemented:
 If no arguments are provided, simple-wc defaults to printing all three counts.
 
 ## Installation:
-This program is not meant to replace the version of wc on your system. It was simply a short personal exercise to practice and brush up on my C skills. That said, if you would like to use it or modify it for your own uses, here are the steps to do so:
+This program is not meant to replace the version of wc on your system. It was simply a short personal exercise to practice and brush up on my C skills. That said, if you would like to use it or modify it for your own purposes, here are the steps to do so:
 
 __First__, clone the git respository:
 ```
@@ -35,7 +35,7 @@ gcc simple-wc.c -o simple-wc
 
 __Finally__, run the command:
 ```
-./simple-wc LISENCE README.md
+./simple-wc LICENSE README.md
 ```
 
 ## License and Copyright
